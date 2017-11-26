@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackGame", "BlackJackGame\BlackJackGame.csproj", "{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{588F5A33-273F-49A5-9FF5-35292CA1CB49}"
+	ProjectSection(SolutionItems) = preProject
+		BlackJackGame\2c.png = BlackJackGame\2c.png
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameClasses", "..\CardGameClasses\CardGameClasses\CardGameClasses.csproj", "{F23AF18A-B06C-4746-9ACC-A201A0FCFD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23AF18A-B06C-4746-9ACC-A201A0FCFD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23AF18A-B06C-4746-9ACC-A201A0FCFD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23AF18A-B06C-4746-9ACC-A201A0FCFD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23AF18A-B06C-4746-9ACC-A201A0FCFD35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

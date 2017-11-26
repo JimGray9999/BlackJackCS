@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackGame", "BlackJackGame\BlackJackGame.csproj", "{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{588F5A33-273F-49A5-9FF5-35292CA1CB49}"
+	ProjectSection(SolutionItems) = preProject
+		BlackJackGame\CardImages\10c.png = BlackJackGame\CardImages\10c.png
+		BlackJackGame\CardImages\10d.png = BlackJackGame\CardImages\10d.png
+		BlackJackGame\CardImages\10h.png = BlackJackGame\CardImages\10h.png
+		BlackJackGame\CardImages\10s.png = BlackJackGame\CardImages\10s.png
+		BlackJackGame\2c.png = BlackJackGame\2c.png
+		BlackJackGame\CardImages\2d.png = BlackJackGame\CardImages\2d.png
+		BlackJackGame\CardImages\2h.png = BlackJackGame\CardImages\2h.png
+		BlackJackGame\CardImages\2s.png = BlackJackGame\CardImages\2s.png
+		BlackJackGame\CardImages\3c.png = BlackJackGame\CardImages\3c.png
+		BlackJackGame\CardImages\3d.png = BlackJackGame\CardImages\3d.png
+		BlackJackGame\CardImages\3h.png = BlackJackGame\CardImages\3h.png
+		BlackJackGame\CardImages\3s.png = BlackJackGame\CardImages\3s.png
+		BlackJackGame\CardImages\4c.png = BlackJackGame\CardImages\4c.png
+		BlackJackGame\CardImages\4d.png = BlackJackGame\CardImages\4d.png
+		BlackJackGame\CardImages\4h.png = BlackJackGame\CardImages\4h.png
+		BlackJackGame\CardImages\4s.png = BlackJackGame\CardImages\4s.png
+		BlackJackGame\CardImages\5c.png = BlackJackGame\CardImages\5c.png
+		BlackJackGame\CardImages\5d.png = BlackJackGame\CardImages\5d.png
+		BlackJackGame\CardImages\5h.png = BlackJackGame\CardImages\5h.png
+		BlackJackGame\CardImages\5s.png = BlackJackGame\CardImages\5s.png
+		BlackJackGame\CardImages\6c.png = BlackJackGame\CardImages\6c.png
+		BlackJackGame\CardImages\6d.png = BlackJackGame\CardImages\6d.png
+		BlackJackGame\CardImages\6h.png = BlackJackGame\CardImages\6h.png
+		BlackJackGame\CardImages\6s.png = BlackJackGame\CardImages\6s.png
+		BlackJackGame\CardImages\7c.png = BlackJackGame\CardImages\7c.png
+		BlackJackGame\CardImages\7d.png = BlackJackGame\CardImages\7d.png
+		BlackJackGame\CardImages\7h.png = BlackJackGame\CardImages\7h.png
+		BlackJackGame\CardImages\7s.png = BlackJackGame\CardImages\7s.png
+		BlackJackGame\CardImages\8c.png = BlackJackGame\CardImages\8c.png
+		BlackJackGame\CardImages\8d.png = BlackJackGame\CardImages\8d.png
+		BlackJackGame\CardImages\8h.png = BlackJackGame\CardImages\8h.png
+		BlackJackGame\CardImages\8s.png = BlackJackGame\CardImages\8s.png
+		BlackJackGame\CardImages\9c.png = BlackJackGame\CardImages\9c.png
+		BlackJackGame\CardImages\9d.png = BlackJackGame\CardImages\9d.png
+		BlackJackGame\CardImages\9h.png = BlackJackGame\CardImages\9h.png
+		BlackJackGame\CardImages\9s.png = BlackJackGame\CardImages\9s.png
+		BlackJackGame\CardImages\ac.png = BlackJackGame\CardImages\ac.png
+		BlackJackGame\CardImages\ad.png = BlackJackGame\CardImages\ad.png
+		BlackJackGame\CardImages\ah.png = BlackJackGame\CardImages\ah.png
+		BlackJackGame\CardImages\as.png = BlackJackGame\CardImages\as.png
+		BlackJackGame\CardImages\blueback.png = BlackJackGame\CardImages\blueback.png
+		BlackJackGame\CardImages\jc.png = BlackJackGame\CardImages\jc.png
+		BlackJackGame\CardImages\jd.png = BlackJackGame\CardImages\jd.png
+		BlackJackGame\CardImages\jh.png = BlackJackGame\CardImages\jh.png
+		BlackJackGame\CardImages\js.png = BlackJackGame\CardImages\js.png
+		BlackJackGame\CardImages\kc.png = BlackJackGame\CardImages\kc.png
+		BlackJackGame\CardImages\kd.png = BlackJackGame\CardImages\kd.png
+		BlackJackGame\CardImages\kh.png = BlackJackGame\CardImages\kh.png
+		BlackJackGame\CardImages\ks.png = BlackJackGame\CardImages\ks.png
+		BlackJackGame\CardImages\qc.jpg = BlackJackGame\CardImages\qc.jpg
+		BlackJackGame\CardImages\qc.png = BlackJackGame\CardImages\qc.png
+		BlackJackGame\CardImages\qd.png = BlackJackGame\CardImages\qd.png
+		BlackJackGame\CardImages\qh.png = BlackJackGame\CardImages\qh.png
+		BlackJackGame\CardImages\qs.jpg = BlackJackGame\CardImages\qs.jpg
+		BlackJackGame\CardImages\qs.png = BlackJackGame\CardImages\qs.png
+		BlackJackGame\CardImages\redback.png = BlackJackGame\CardImages\redback.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C8122-C7AD-40EC-BCE9-E4035BB5A2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

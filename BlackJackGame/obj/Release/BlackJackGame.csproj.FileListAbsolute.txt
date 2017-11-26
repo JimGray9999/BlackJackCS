@@ -1,0 +1,11 @@
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\bin\Release\BlackJackGame.exe.config
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\bin\Release\BlackJackGame.exe
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\bin\Release\BlackJackGame.pdb
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\bin\Release\CardGameClasses.dll
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\bin\Release\CardGameClasses.pdb
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.csprojResolveAssemblyReference.cache
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.Form1.resources
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.Properties.Resources.resources
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.csproj.GenerateResource.Cache
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.exe
+C:\Users\jgray051\Downloads\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.pdb
